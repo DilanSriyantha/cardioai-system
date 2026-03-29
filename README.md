@@ -56,9 +56,9 @@ CardioAI follows a **multi-service architecture**, separating concerns across in
 
 | Component | Description | Repository |
 |----------|------------|------------|
-| 🌐 Frontend | React-based user interface | https://github.com/your-username/cardioai-frontend |
-| ⚙️ Backend | NestJS API for orchestration & data handling | https://github.com/your-username/cardioai-backend |
-| 🧠 Prediction Service | FastAPI ML service for predictions | https://github.com/your-username/cardioai-prediction-service |
+| 🌐 Frontend | React-based user interface | https://github.com/DilanSriyantha/cardioai-frontend |
+| ⚙️ Backend | NestJS API for orchestration & data handling | https://github.com/DilanSriyantha/cardioai-backend |
+| 🧠 Prediction Service | FastAPI ML service for predictions | https://github.com/DilanSriyantha/cardioai-prediction-service |
 
 ---
 
